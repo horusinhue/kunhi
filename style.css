@@ -1,3 +1,7 @@
+body {
+    background-color: #d9f3ef;
+}
+
 .container-exmpl1 {
     background-color: black;
     color: white;
@@ -18,14 +22,38 @@
 }
 
 .card {
-    margin: 80px;
+    margin-top: 80px;
+    padding: 8px;
 }
 
 .design-100 {
-    font-family: 'Caveat', cursive;
-    font-size: 9vw;
+    font-family: font-family: 'Varela Round', sans-serif;
+    font-size: 5vw;
+    ;
 }
 
 .margin-pics {
     ;
+}
+
+.card-title, .card-text {
+    font-family: font-family: 'Varela Round', sans-serif;
+}
+
+.nav-link {
+    font-size: 20px;
+}
+
+.tipo-sn {
+    padding: 10px;
+    font-size: 25px;
+    color: #772c6d;
+}
+
+.tipo-sn:hover {
+    color: grey;
+}
+
+.sn-log {
+    margin-left: 20px;
 }
